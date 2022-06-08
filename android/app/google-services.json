@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607553702803",
+    "project_id": "job-timer-98a3b",
+    "storage_bucket": "job-timer-98a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607553702803:android:cf80c1962e9bde72e0b666",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607553702803-qcpf4vl0kb902ib1cv2u3hgekk5v9dpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMmfzn7BaP5S-O4VzFYB24bmRhiQeCc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607553702803-qcpf4vl0kb902ib1cv2u3hgekk5v9dpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
